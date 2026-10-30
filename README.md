@@ -7,3 +7,4 @@
 - [Семинар 4 - Pytorch, Сверточные NN)](Seminar%204)
 - [Семинар 5 - Языковое моделирование)](Seminar%205)
 - [Семинар 6 - seq2seq](Seminar%206)
+- [Семинар 7 - NER, Pretrained language models](Seminar%207)
