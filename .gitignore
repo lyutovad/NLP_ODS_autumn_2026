@@ -1,0 +1,12 @@
+# Виртуальные окружения Python
+venv/
+.venv/
+.venv-rut5/
+
+# Служебные файлы Python
+__pycache__/
+*.pyc
+
+# Контрольные точки и результаты обучения
+Seminar9/outputs_t5_billsum/
+Seminar9/outputs_nllb_experiment/

@@ -9,3 +9,4 @@
 - [Семинар 6 - seq2seq](Seminar%206)
 - [Семинар 7 - NER, Pretrained language models](Seminar%207)
 - [Семинар 8 - Large language models](Seminar%208)
+- [Семинар 9 - Seq2Seq Transformers](Seminar9)
